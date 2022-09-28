@@ -9,7 +9,7 @@ Nothing concrete, but overall just trying to further my understanding and knowle
 - Seahorselang
 
 ## 📫 How to reach me:
-Shoot me an [Email](orionadler7575@gmail.com)
+Shoot me an [Email](mailto:orionadler7575@gmail.com)
 or
 Reach out to me on [Twitter](www.twitter.com)
 
