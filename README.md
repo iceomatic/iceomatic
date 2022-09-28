@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Orion. A Mechanical Engineer who started coding in his free time.
+# Hi there 👋, I'm Orion. A Mechanical Engineer at heart who fell in love with coding.
 
 ## 🔭 What I'm currently working on:
 Nothing concrete, but overall just trying to further my understanding and knowledge in programming and writing good code.
