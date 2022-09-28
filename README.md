@@ -7,7 +7,6 @@ Nothing concrete yet, kind of in between Projects. But overall just trying to fu
 - Rust
 - Anchorlang
 - Seahorselang
-- 
 ## ✔️ What have I done so far:
 - Bootstrapped MoonBots to 17 Customers within 7 months together with my co-founder.
 - Continuously developed and improved a suite of community engagement tools for MoonBots.
