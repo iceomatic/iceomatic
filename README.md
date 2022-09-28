@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Orion. A Mechanical Engineer who started coding in his free time.
 
-## What I'm currently working on:
+## 🔭 What I'm currently working on:
 Nothing concrete, but overall just trying to further my understanding and knowledge in programming and writing good code.
 
-## What I'm currently learning:
+## 🌱 What I'm currently learning:
 - Rust
 - Anchorlang
 - Seahorselang
