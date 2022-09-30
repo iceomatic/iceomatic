@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Orion. A Mechanical Engineer at heart who fell in love with coding.
 
 ## 🔭 What I'm currently working on:
-Nothing concrete yet, kind of in between Projects. But overall just trying to further my understanding and knowledge in programming and writing clean code.
+Nothing concrete currently, kind of in between Projects. But overall just trying to further my understanding and knowledge in programming and writing clean code.
 
 ## 🌱 What I'm currently learning:
 - Rust
