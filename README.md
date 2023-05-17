@@ -7,8 +7,7 @@ Bringing secure and UX friendly supplementary authentication onto Solana. Whethe
 - Rust
 ## ✔️ What have I done so far:
 - Placed 1st in the Infrastructure & Tooling Track in Grizzlython with Bunkr
-- Bootstrapped MoonBots to 17 Customers within 7 months together with my co-founder.
-- Continuously developed and improved a suite of community engagement tools for MoonBots.
+- Bootstrapped a small tooling business to 17 Customers within 7 months together with my co-founder.
 - Developed a small section of the Twitter Raiderboard for WAGMI Beach
 ## 📫 How to reach me:
 Shoot me an [Email](mailto:orionadler7575@gmail.com)
