@@ -1,13 +1,12 @@
-# Hi there 👋, I'm Orion. A Mechanical Engineer at heart who fell in love with coding.
+# Hi there 👋, I'm Orion. A Mechanical Engineer turned Software Engineer (Work in progress 🙃).
 
 ## 🔭 What I'm currently working on:
-Nothing concrete currently, kind of in between Projects. But overall just trying to further my understanding and knowledge in programming and writing clean code.
+Bringing secure and UX friendly supplementary authentication onto Solana. Whether that's for securing assets with 2FA or enabling useful account abstractions, I'm here for it 🤝
 
 ## 🌱 What I'm currently learning:
 - Rust
-- Anchorlang
-- Seahorselang
 ## ✔️ What have I done so far:
+- Placed 1st in the Infrastructure & Tooling Track in Grizzlython with Bunkr
 - Bootstrapped MoonBots to 17 Customers within 7 months together with my co-founder.
 - Continuously developed and improved a suite of community engagement tools for MoonBots.
 - Developed a small section of the Twitter Raiderboard for WAGMI Beach
