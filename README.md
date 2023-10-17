@@ -1,14 +1,15 @@
-# Hi there 👋, I'm Orion. A Mechanical Engineer turned Software Engineer (Work in progress 🙃).
+# Hey there 👋, I'm a Robotics Engineer turned Software Engineer (Work in progress 🙃).
 
-## 🔭 What I'm currently working on:
+## 🔭 What's my overall mission:
 Bringing secure and UX friendly supplementary authentication onto Solana. Whether that's for securing assets with 2FA or enabling useful account abstractions, I'm here for it 🤝
 
-## 🌱 What I'm currently learning:
-- Rust
+## 🌱 What I'm currently working on:
+- Learning more 🦀-lang
+- Cryptographic contributions to Solana Core
+
 ## ✔️ What have I done so far:
 - Placed 1st in the Infrastructure & Tooling Track in Grizzlython with Bunkr
 - Bootstrapped a small tooling business to 17 Customers within 7 months together with my co-founder.
-- Developed a small section of the Twitter Raiderboard for WAGMI Beach
 ## 📫 How to reach me:
 Shoot me an [Email](mailto:orionadler7575@gmail.com)
 or
