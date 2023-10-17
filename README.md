@@ -1,4 +1,4 @@
-# Hey there 👋, I'm a Robotics and Software Engineer.
+# Hey there, I'm Orion 👋 I'm a Robotics and Software Engineer.
 
 ## 🔭 What's my overall mission:
 Bringing secure and UX friendly supplementary authentication onto Solana. Whether that's for securing assets with 2FA or enabling useful account abstractions, I'm here for it 🤝
